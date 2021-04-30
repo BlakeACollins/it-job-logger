@@ -2,24 +2,31 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drives in work station 005",
+      "message": "005 all fixed",
       "attention": false,
-      "date": "04-02-2021",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not working",
-      "attention": true,
-      "date": "04-03-2021",
-      "tech": "Jimmy Doe"
+      "tech": "Jimmy Doe",
+      "date": "2021-04-30T03:10:16.910Z"
     },
     {
       "id": 3,
-      "message": "Changed fans on workstaion 006",
+      "message": "007 fans need cleaning",
       "attention": false,
-      "date": "04-03-2021",
-      "tech": "Chad Hill"
+      "tech": "Chad Hill",
+      "date": "2021-04-30T20:10:02.299Z"
+    },
+    {
+      "message": "Station 008 blue screen",
+      "attention": true,
+      "tech": "Sarha Johnson",
+      "date": "2021-04-30T21:20:14.041Z",
+      "id": 4
+    },
+    {
+      "message": "Workstation 001 over heating",
+      "attention": true,
+      "tech": "Nikki Flame",
+      "date": "2021-04-30T21:22:47.951Z",
+      "id": 5
     }
   ],
   "techs": [
@@ -42,6 +49,11 @@
       "firstName": "Sarha",
       "lastName": "Johnson",
       "id": 4
+    },
+    {
+      "firstName": "Nikki",
+      "lastName": "Flame",
+      "id": 5
     }
   ]
 }
